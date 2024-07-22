@@ -12,3 +12,4 @@ C:\users\giorgi\source\repos\console\FirstOrDefault\obj\Debug\net8.0\refint\Firs
 C:\users\giorgi\source\repos\console\FirstOrDefault\obj\Debug\net8.0\FirstOrDefault.pdb
 C:\users\giorgi\source\repos\console\FirstOrDefault\obj\Debug\net8.0\FirstOrDefault.genruntimeconfig.cache
 C:\users\giorgi\source\repos\console\FirstOrDefault\obj\Debug\net8.0\ref\FirstOrDefault.dll
+C:\users\giorgi\source\repos\console\FirstORDefault\obj\Debug\net8.0\FirstOrDefault.sourcelink.json

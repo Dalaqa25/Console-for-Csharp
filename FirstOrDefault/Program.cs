@@ -1,34 +1,31 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Data.Common;
-using System.Linq;
-
-public class SecondTry
+﻿public class Grapes
 {
-    public int Id {get; set;}
+    public int id {get; set;}
     public string Name {get; set;} = string.Empty;
 }
-
 
 public class Program
 {
     public static void Main()
     {
-        var stack = new List<SecondTry>
+        var grapesModel = new List<Grapes>
         {
-            new SecondTry {Id = 2, Name = "giorgio"},
-            new SecondTry {Id = 3, Name = "gela"}
+           new Grapes {id = 1, Name = "giorgi"},
+           new Grapes {id = 2, Name = "tato"} 
         };
-        int IdtoIndex = 3;
-        var Result = stack.FirstOrDefault(x => x.Id == IdtoIndex);
-        
-        if (Result != null)
+
+        int IdtoInexd = 1;
+        var result = grapesModel.FirstOrDefault(x => x.id == IdtoInexd);
+
+
+        if (result != null)
         {
-            Console.WriteLine($"Found: {Result.Name}");
-        }
-        else 
-        {
-           Console.WriteLine("nop!"); 
+            Console.WriteLine($"found {result.Name}");
+            var remove = grapesModel.Remove(result);
+            if (remove)
+            {
+                Console.WriteLine($"Removed {result.Name}");
+            }
         }
     }
 }
