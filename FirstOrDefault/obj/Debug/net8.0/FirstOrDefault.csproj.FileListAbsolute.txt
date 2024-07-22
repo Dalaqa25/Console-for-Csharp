@@ -1,0 +1,14 @@
+C:\users\giorgi\source\repos\console\FirstOrDefault\bin\Debug\net8.0\FirstOrDefault.exe
+C:\users\giorgi\source\repos\console\FirstOrDefault\bin\Debug\net8.0\FirstOrDefault.deps.json
+C:\users\giorgi\source\repos\console\FirstOrDefault\bin\Debug\net8.0\FirstOrDefault.runtimeconfig.json
+C:\users\giorgi\source\repos\console\FirstOrDefault\bin\Debug\net8.0\FirstOrDefault.dll
+C:\users\giorgi\source\repos\console\FirstOrDefault\bin\Debug\net8.0\FirstOrDefault.pdb
+C:\users\giorgi\source\repos\console\FirstOrDefault\obj\Debug\net8.0\FirstOrDefault.GeneratedMSBuildEditorConfig.editorconfig
+C:\users\giorgi\source\repos\console\FirstOrDefault\obj\Debug\net8.0\FirstOrDefault.AssemblyInfoInputs.cache
+C:\users\giorgi\source\repos\console\FirstOrDefault\obj\Debug\net8.0\FirstOrDefault.AssemblyInfo.cs
+C:\users\giorgi\source\repos\console\FirstOrDefault\obj\Debug\net8.0\FirstOrDefault.csproj.CoreCompileInputs.cache
+C:\users\giorgi\source\repos\console\FirstOrDefault\obj\Debug\net8.0\FirstOrDefault.dll
+C:\users\giorgi\source\repos\console\FirstOrDefault\obj\Debug\net8.0\refint\FirstOrDefault.dll
+C:\users\giorgi\source\repos\console\FirstOrDefault\obj\Debug\net8.0\FirstOrDefault.pdb
+C:\users\giorgi\source\repos\console\FirstOrDefault\obj\Debug\net8.0\FirstOrDefault.genruntimeconfig.cache
+C:\users\giorgi\source\repos\console\FirstOrDefault\obj\Debug\net8.0\ref\FirstOrDefault.dll
